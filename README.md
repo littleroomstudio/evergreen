@@ -50,6 +50,6 @@ GPL-3.0-or-later
 
 ## Credits
 
-**Author:** [Little Room](https://littleroom.studio)
+**Author:** [Jason Cosper](https://github.com/boogah)
 
 **Inspired by:** Jos Velasco ([Trac #58389](https://core.trac.wordpress.org/ticket/58389)) and Andy Fragen
