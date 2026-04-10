@@ -24,6 +24,10 @@ When either event happens, the plugin gets added to WordPress's `auto_update_plu
 - **Clean uninstall** — only removes the auto-update settings it added, nothing else
 - **Zero configuration** — no settings page, no options, no decisions to make
 
+## Automatic Updates
+
+This plugin supports [Git Updater](https://git-updater.com/). Install it and you'll get update notifications when new versions are released.
+
 ## Requirements
 
 - WordPress 6.0+
