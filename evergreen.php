@@ -7,6 +7,7 @@
  * Plugin Name:        Evergreen
  * Plugin URI:         https://github.com/littleroomstudio/evergreen
  * GitHub Plugin URI:  https://github.com/littleroomstudio/evergreen
+ * Primary Branch:     main
  * Description:        Enables auto-updates for plugins by default when plugins are installed or activated.
  * Version:            1.0.0
  * Author:             Little Room
